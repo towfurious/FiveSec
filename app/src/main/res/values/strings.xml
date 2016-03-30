@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">FiveSec</string>
+    <string name="app_name">FiveSec beta</string>
+    <string name="search_title">Search</string>
 </resources>
