@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:layout_height="192dp"
     android:layout_width="match_parent"
-    android:background="@color/colorPrimary">
-
-
+    android:layout_height="@dimen/navigation_view_header_height"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical">
 </LinearLayout>
